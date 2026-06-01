@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+click>=8.1
+jsonschema>=4.21
+pytest>=8.0
+pytest-cov>=4.1
+ruff>=0.4
+hypothesis>=6.100

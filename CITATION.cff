@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "TyCAT: AI-Augmented ETL Test Case Generation for AML Transaction Monitoring"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Contributors"
+    given-names: "TyCAT"
+repository-code: "https://github.com/hkrishnan62/AI-Augmented-ETL-Test-Case-Generation-for-AML-Transaction"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-05-28"
+abstract: "TyCAT uses typology-conditioned prompts and deterministic/LLM backends to generate AML ETL tests aligned to FinCEN AML/CFT priorities."
